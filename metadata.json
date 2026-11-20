@@ -1,0 +1,6 @@
+{
+  "name": "TruthLens X",
+  "description": "Multimodal Digital Forensics and Deepfake Detection System — Detect inconsistencies. Connect evidence. Explain what matters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
